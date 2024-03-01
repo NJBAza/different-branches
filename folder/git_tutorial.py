@@ -7,7 +7,7 @@ def add_number(a, b, c):
         c (_type_): _description_
 
     Returns:
-        _type_: _description_
+        float: Return the sum of a, b and c. 
     """    
     return a + b + c
 

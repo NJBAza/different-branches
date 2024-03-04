@@ -10,4 +10,6 @@ We are about to make a commit without best practices.
 
 I add new lines in order to see the differences...
 
+other thing
+
 

@@ -10,4 +10,11 @@ We are about to make a commit without best practices.
 
 I add new lines in order to see the differences...
 
+<<<<<<< Updated upstream
+=======
+other thing
+
+repositories, branches, commits
+
+>>>>>>> Stashed changes
 
